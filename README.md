@@ -1,1 +1,1 @@
-# Sample-Responsive-Web-Design---Media-Queries
+# Sample-Responsive-Web-Design-Media-Queries
